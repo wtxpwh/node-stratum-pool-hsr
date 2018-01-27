@@ -28,7 +28,7 @@
         "url": "https://github.com/splxsg/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "https://github.com/SpiritedAwayLab/node-multi-hashing-xzc.git",
+        "multi-hashing": "https://github.com/SpiritedAwayLab/node-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
