@@ -12,9 +12,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/splxsg/node-stratum-pool",
+    "homepage": "https://github.com/wtxpwh/node-stratum-pool-hsr",
     "bugs": {
-        "url": "https://github.com/splxsg/node-stratum-pool/issues"
+        "url": "https://github.com/wtxpwh/node-stratum-pool-hsr/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -25,10 +25,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/splxsg/node-stratum-pool.git"
+        "url": "https://github.com/wtxpwh/node-stratum-pool-hsr.git"
     },
     "dependencies": {
-        "multi-hashing": "https://github.com/SpiritedAwayLab/node-multi-hashing.git",
+        "multi-hashing": "https://github.com/wtxpwh/mutihashv2.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
